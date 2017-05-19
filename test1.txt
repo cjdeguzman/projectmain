@@ -1,2 +1,8 @@
 hello world
+<<<<<<< HEAD
 1st
+=======
+1st
+2nd
+3rd
+>>>>>>> 574fffc... 4th line added
